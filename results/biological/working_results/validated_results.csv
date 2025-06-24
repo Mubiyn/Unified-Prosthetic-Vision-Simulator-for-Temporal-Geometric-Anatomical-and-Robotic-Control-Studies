@@ -1,0 +1,4 @@
+Patient,Profile,Rho,Axlambda,Max_Brightness,Activated_Area,Spatial_Spread,Center_X,Center_Y
+Healthy Young Patient,healthy_young,100,600,0.0,0,0.0,0,0
+Moderate Degeneration,moderate_degeneration,250,400,0.0,0,0.0,0,0
+Severe Degeneration,severe_degeneration,400,200,0.0,0,0.0,0,0
