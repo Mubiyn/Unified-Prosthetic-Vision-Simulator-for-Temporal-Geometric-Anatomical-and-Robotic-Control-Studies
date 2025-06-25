@@ -1,5 +1,0 @@
-Scene,Frames,Description,Edge_Strength,Motion_Magnitude,Trajectory_Length
-Moving Ball,12,Ball moving diagonally across visual field,1510.102,119.45584412271572,56.212351399379514
-Expanding Circle,12,Object approaching viewer (looming stimulus),430.0573,371.04372260139576,16.543203766865055
-Scrolling Text,12,Text scrolling for reading simulation,1006.26746,481.9787137637478,48.0
-Multi-Object,12,Multiple objects with different motion patterns,540.6174,135.48427124746192,51.296813410729605

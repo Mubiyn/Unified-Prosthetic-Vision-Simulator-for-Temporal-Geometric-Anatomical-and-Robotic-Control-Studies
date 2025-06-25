@@ -1,6 +1,0 @@
-Patient,Profile,Peak_Brightness,FWHM_degrees,Activated_Area_pixels,Rho,Axlambda,Spatial_Resolution_Score,Brightness_Score
-Young Patient (Good Retinal Health),young_healthy,0.0,16.5,0,200,600,0.06060606060606061,0.0
-Typical Patient (Moderate Degeneration),typical_patient,0.0,16.5,0,300,400,0.06060606060606061,0.0
-Advanced Degeneration Patient,advanced_degeneration,0.0,16.5,0,500,200,0.06060606060606061,0.0
-Elderly Patient (Age-Related Changes),elderly_patient,0.0,16.5,0,400,300,0.06060606060606061,0.0
-Focal Preservation Patient,focal_preservation,0.0,16.5,0,150,800,0.06060606060606061,0.0

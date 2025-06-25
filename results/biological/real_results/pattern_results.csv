@@ -1,4 +1,0 @@
-Patient,Profile,Pattern_Brightness,Pattern_Area,Distinct_Regions,Pattern_Quality
-Healthy Patient,healthy,19.489374,226,0,0.0
-Moderate Degeneration,moderate,31.904272,749,0,0.0
-Severe Degeneration,severe,57.29988,1181,0,0.0
